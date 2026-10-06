@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Wais</string>
+    <string name="floating_button_desc">Scan content</string>
+    <string name="fact_check">Fact check</string>
+    <string name="close">Close</string>
+    <string name="notification_channel_name">Overlay Service</string>
+    <string name="notification_title">Wais is running</string>
+    <string name="notification_text">Tap floating button to analyze content</string>
+    <string name="overlay_permission_needed">Overlay permission required</string>
+    <string name="overlay_permission_granted">Overlay permission granted</string>
+    <string name="accessibility_permission_needed">Accessibility service not enabled</string>
+    <string name="ready_all_permissions">Overlay and accessibility are enabled</string>
+    <string name="accessibility_instruction_toast">Enable "Wais" in Accessibility, then go back.</string>
+    <string name="setup_complete_toast">Setup complete. You are good to go.</string>
+    <string name="setup_hint_ready">Setup complete. The floating overlay can analyze posts now.</string>
+    <string name="setup_hint_both_missing">Finish setup: grant overlay permission and enable Accessibility service.</string>
+    <string name="setup_hint_overlay_missing">Grant overlay permission so the floating button can stay above apps.</string>
+    <string name="setup_hint_accessibility_missing">Enable Accessibility service so Wais can read visible post text.</string>
+    <string name="service_started">Overlay service started</string>
+    <string name="service_stopped">Overlay service stopped</string>
+    <string name="capture_notification_channel_name">Capture Service</string>
+    <string name="capture_notification_title">Capture active</string>
+    <string name="capture_notification_text">Capturing screen for OCR analysis</string>
+    <string name="loading">Loading analysis...</string>
+    <string name="accessibility_service_desc">Reads visible on-screen post text for fact checking, and captures a screenshot only when you double-tap the Wais button to check an image</string>
+    <string name="accessibility_empty">No readable text found from current app screen</string>
+    <string name="image_hint">Not enough text found on this screen. If this is an image or meme, double-tap the Wais button to check the image.</string>
+    <string name="image_check_action">Check image</string>
+    <string name="image_disclosure">Checking an image takes a screenshot of your current screen and sends it to Google Gemini to read the claim. Anything visible on screen, including private content, will be sent. Nothing is captured unless you double-tap the button or press Check image.</string>
+    <string name="image_disclosure_accept">Agree and check image</string>
+    <string name="image_needs_accessibility">Turn on the Wais accessibility service to check images.</string>
+</resources>

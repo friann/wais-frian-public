@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark theme surfaces -->
+    <color name="surface">#131313</color>
+    <color name="surface_container">#201F1F</color>
+    <color name="surface_container_high">#2A2A2A</color>
+    <color name="surface_container_highest">#353534</color>
+    <color name="surface_container_low">#1C1B1B</color>
+    <color name="surface_container_lowest">#0E0E0E</color>
+    <color name="surface_dim">#131313</color>
+    <color name="surface_bright">#3A3939</color>
+
+    <!-- Dark theme on-surfaces -->
+    <color name="on_surface">#E5E2E1</color>
+    <color name="on_surface_variant">#BBCABF</color>
+
+    <!-- Dark theme primary (emerald accent - same in both themes) -->
+    <color name="primary">#4EDEA3</color>
+    <color name="primary_container">#10B981</color>
+    <color name="on_primary">#003824</color>
+    <color name="on_primary_container">#00422B</color>
+    <color name="primary_fixed">#6FFBBE</color>
+    <color name="primary_fixed_dim">#4EDEA3</color>
+
+    <!-- Dark theme secondary -->
+    <color name="secondary">#9ED2B5</color>
+    <color name="secondary_container">#21523C</color>
+    <color name="on_secondary">#013824</color>
+    <color name="on_secondary_container">#91C4A8</color>
+    <color name="secondary_fixed">#BAEED1</color>
+    <color name="secondary_fixed_dim">#9ED2B5</color>
+
+    <!-- Dark theme tertiary -->
+    <color name="tertiary">#FFB3AF</color>
+    <color name="tertiary_container">#FC7C78</color>
+    <color name="on_tertiary">#650911</color>
+    <color name="on_tertiary_container">#711419</color>
+    <color name="tertiary_fixed">#FFDAD7</color>
+    <color name="tertiary_fixed_dim">#FFB3AF</color>
+
+    <!-- Dark theme error -->
+    <color name="error">#FFB4AB</color>
+    <color name="error_container">#93000A</color>
+    <color name="on_error">#690005</color>
+    <color name="on_error_container">#FFDAD6</color>
+
+    <!-- Dark theme outlines -->
+    <color name="outline">#86948A</color>
+    <color name="outline_variant">#3C4A42</color>
+
+    <!-- Dark theme inverse -->
+    <color name="inverse_primary">#006C49</color>
+    <color name="inverse_surface">#E5E2E1</color>
+    <color name="inverse_on_surface">#313030</color>
+
+    <color name="surface_tint">#4EDEA3</color>
+</resources>
