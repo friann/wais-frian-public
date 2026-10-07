@@ -1,4 +1,4 @@
-<p align="center"><img src="screenshots/logo.png" width="200" alt="Wais Logo"></p>
+<p align="center"><img src="header.png" width="200" alt="Wais Logo"></p>
 
 <div style="align:center">
 
